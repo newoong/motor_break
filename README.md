@@ -11,4 +11,4 @@ Classify motor break - (interturn  fault / phase to phase fault)
 
 -- 전조증상 부분 데이터 매우 짧음 -> 데이터 불균형 -> TimeGAN을 이용하여 임의의 전조증상 데이터 다량 생성하여 모델링
 
--- tsaug의 augmentation 기법들을 이용하여 test set 
+-- tsaug의 augmentation 기법들을 이용하여 test set 생성
